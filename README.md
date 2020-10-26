@@ -21,6 +21,6 @@ In this project,
 
 • List the top 100 most popular hashtags every 10 seconds
 
-• Parallelize the analysis of your system
+• Parallelize the analysis of the system
 
 To perform above tasks, we require to use Apache Storm, and Twitter Stream APIs.
